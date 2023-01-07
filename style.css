@@ -1,0 +1,28 @@
+.heading{
+    font-size: x-large;
+    width: 100%;
+    margin-top: 0;
+    box-shadow: 10px 15px 25px red;
+}
+
+.note{
+    font-size: medium;
+    color: yellow;
+}
+
+.foot{
+    width: 100%;
+    background-color: aqua;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    font-size: large;
+    line-height: 2;
+}
+
+canvas{
+    border-radius: 5px;
+    border-style: dashed;
+    border-color: blue;
+    border-width: 5px;
+}
